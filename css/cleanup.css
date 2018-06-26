@@ -23,6 +23,6 @@
   display: none;
 }
 
-#wall .parent.parent.parent.parent>div:first-child {
+#wall .parent.parent.parent.parent>#tag-5.slick {
   display: none;
 }
