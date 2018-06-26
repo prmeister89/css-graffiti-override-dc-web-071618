@@ -11,6 +11,6 @@
   display: none;
 }
 
-#wall #.slick.wicked {
+#wall .parent {
   display: none;
 }
