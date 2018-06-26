@@ -22,3 +22,7 @@
 #wall .parent.parent.parent>div:last-child {
   display: none;
 }
+
+#wall .parent.parent.parent.parent>div:first-child {
+  display: none;
+}
